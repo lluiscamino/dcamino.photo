@@ -1,0 +1,51 @@
+name: Sync Flickr Photos
+
+on:
+  schedule:
+    - cron: '0 4 1 * *' # 1st of every month at 4am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync Flickr
+        run: node scripts/sync-flickr.js
+        env:
+          FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }}
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add config/photos.json images/
+          git diff --cached --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Create PR
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          BRANCH="sync-flickr-$(date +%Y-%m-%d-%H%M)"
+          LABEL="$(date +%B) $(date +%Y)"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git commit -m "sync: update photos from Flickr ($LABEL)"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "Sync Flickr photos ($LABEL)" \
+            --body "Monthly automated sync of photos and activity stats from Flickr." \
+            --base main \
+            --head "$BRANCH"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
