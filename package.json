@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build-html.js && npx esbuild dist/js/main.js --minify --outfile=dist/js/main.js --allow-overwrite && npx esbuild dist/css/style.css --minify --outfile=dist/css/style.css --allow-overwrite",
-    "dev": "node scripts/build-html.js && npx serve dist"
+    "dev": "node scripts/build-html.js && npx serve dist",
+    "sync-flickr": "node scripts/sync-flickr.js"
   }
 }

@@ -11,8 +11,10 @@ export function aboutPage({ lang, config, translations, basePath = '.' }) {
     return `${basePath}/${lang}/${page}`;
   };
 
-  // Extract unique locations from photos
-  const uniqueLocations = [...new Set(photos.map(photo => photo.location[lang]))];
+  // Extract unique regions from photos for the places cloud
+  const uniqueLocations = [...new Set(
+    photos.map(p => p.location?.region || p.location?.country).filter(Boolean)
+  )];
   const placesCloud = uniqueLocations.map(loc => `<span>${loc}</span>`).join('\n                        ');
 
   return `${head({ title: `${t['about.label']} | Domingo Camino`, lang, basePath, description: t['meta.description.about'], siteUrl: config.site.url })}

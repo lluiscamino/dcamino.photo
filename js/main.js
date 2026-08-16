@@ -4,12 +4,13 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Initialize all modules
     initPageLoader();
     initCustomCursor();
     initNavigation();
     initScrollAnimations();
-    initGalleryFilter();
+    const relayout = initJustifiedLayout();
+    initGalleryFilter(relayout);
+    initGallerySort(relayout);
     initLightbox();
     initLanguagePicker();
 });
@@ -60,7 +61,7 @@ function initLanguagePicker() {
 /**
  * Gallery Filter
  */
-function initGalleryFilter() {
+function initGalleryFilter(relayout) {
     const filterButtons = document.querySelectorAll('.filter-btn');
     const galleryItems = document.querySelectorAll('.gallery-item');
 
@@ -68,23 +69,125 @@ function initGalleryFilter() {
 
     filterButtons.forEach(btn => {
         btn.addEventListener('click', () => {
-            // Update active button
             filterButtons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
 
             const filter = btn.dataset.filter;
 
-            // Filter items
             galleryItems.forEach(item => {
-                if (filter === 'all' || item.dataset.category === filter) {
+                if (item.dataset.visibleIn?.split(' ').includes(filter)) {
                     item.style.display = '';
                     item.style.animation = 'fadeInUp 0.5s ease forwards';
                 } else {
                     item.style.display = 'none';
                 }
             });
+
+            if (relayout) relayout();
         });
     });
+}
+
+/**
+ * Gallery Sort
+ */
+function initGallerySort(relayout) {
+    const sortButtons = document.querySelectorAll('.sort-btn');
+    const grid = document.getElementById('galleryGrid');
+
+    if (!sortButtons.length || !grid) return;
+
+    sortButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            sortButtons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            const sortBy = btn.dataset.sort;
+            const items = Array.from(grid.querySelectorAll('.gallery-item'));
+
+            items.sort((a, b) => {
+                if (sortBy === 'score') {
+                    return parseInt(b.dataset.score || 0) - parseInt(a.dataset.score || 0);
+                }
+                // date descending (default)
+                return (b.dataset.date || '').localeCompare(a.dataset.date || '');
+            });
+
+            items.forEach(item => grid.appendChild(item));
+            if (relayout) relayout();
+        });
+    });
+}
+
+/**
+ * Justified Layout
+ * Computes photo row groupings and pixel dimensions at runtime using known
+ * aspect ratios, so photos fill each row without cropping.
+ */
+function initJustifiedLayout() {
+    const grid = document.getElementById('galleryGrid');
+    if (!grid) return null;
+
+    const GAP = 6; // px — must match gap in .gallery-grid CSS
+
+    function layout() {
+        const containerWidth = grid.clientWidth;
+        if (!containerWidth) return;
+
+        const items = Array.from(grid.querySelectorAll('.gallery-item'))
+            .filter(el => el.style.display !== 'none');
+        if (!items.length) return;
+
+        const targetHeight = window.innerWidth < 640 ? 160 : window.innerWidth < 1024 ? 220 : 300;
+
+        // Group items into rows
+        const rows = [];
+        let row = [];
+        let rowAspectSum = 0;
+
+        for (const item of items) {
+            const img = item.querySelector('img');
+            const w = parseInt(img.getAttribute('width')) || 0;
+            const h = parseInt(img.getAttribute('height')) || 0;
+            const aspect = w && h ? w / h : 3 / 2;
+
+            row.push({ item, aspect });
+            rowAspectSum += aspect;
+
+            // Natural width of this row at targetHeight — if it fills the container, commit the row
+            const naturalWidth = rowAspectSum * targetHeight + (row.length - 1) * GAP;
+            if (naturalWidth >= containerWidth) {
+                rows.push({ row, aspectSum: rowAspectSum, last: false });
+                row = [];
+                rowAspectSum = 0;
+            }
+        }
+        // Remaining photos go in the last (incomplete) row — don't stretch them
+        if (row.length) rows.push({ row, aspectSum: rowAspectSum, last: true });
+
+        // Apply computed dimensions to each item
+        for (const { row: rowItems, aspectSum, last } of rows) {
+            const totalGap = (rowItems.length - 1) * GAP;
+            const rowHeight = last ? targetHeight : (containerWidth - totalGap) / aspectSum;
+            for (const { item, aspect } of rowItems) {
+                const itemWidth = last
+                    ? aspect * targetHeight
+                    : (containerWidth - totalGap) * aspect / aspectSum;
+                item.style.width = Math.floor(itemWidth) + 'px';
+                item.style.height = Math.floor(rowHeight) + 'px';
+            }
+        }
+    }
+
+    layout();
+
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(layout, 100);
+    });
+
+    return layout;
 }
 
 /**
@@ -98,6 +201,9 @@ function initLightbox() {
     const lightboxNext = document.querySelector('.lightbox-next');
     const lightboxLocation = document.querySelector('.lightbox-location');
     const lightboxTitle = document.querySelector('.lightbox-title');
+    const lightboxDate = document.querySelector('.lightbox-date');
+    const lightboxCamera = document.querySelector('.lightbox-camera');
+    const lightboxFlickrLink = document.querySelector('.lightbox-flickr-link');
     const galleryItems = document.querySelectorAll('.gallery-item');
 
     if (!lightbox || !galleryItems.length) return;
@@ -121,6 +227,21 @@ function initLightbox() {
         lightboxImg.alt = img.alt;
         if (lightboxLocation) lightboxLocation.textContent = location ? location.textContent : '';
         if (lightboxTitle) lightboxTitle.textContent = title ? title.textContent : '';
+        if (lightboxDate) {
+            const raw = item.dataset.date || '';
+            if (raw) {
+                const d = new Date(raw.replace(' ', 'T'));
+                lightboxDate.textContent = isNaN(d) ? '' : d.toLocaleDateString(document.documentElement.lang || 'en', { month: 'long', year: 'numeric' });
+            } else {
+                lightboxDate.textContent = '';
+            }
+        }
+        if (lightboxCamera) lightboxCamera.textContent = item.dataset.camera || '';
+        if (lightboxFlickrLink) {
+            const url = item.dataset.flickrUrl || '';
+            lightboxFlickrLink.href = url;
+            lightboxFlickrLink.style.display = url ? '' : 'none';
+        }
     }
 
     function openLightbox(index) {
@@ -336,14 +457,10 @@ function initScrollAnimations() {
  */
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
-        e.preventDefault();
         const target = document.querySelector(this.getAttribute('href'));
-        if (target) {
-            target.scrollIntoView({
-                behavior: 'smooth',
-                block: 'start'
-            });
-        }
+        if (!target) return;
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
 });
 

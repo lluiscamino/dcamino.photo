@@ -9,24 +9,36 @@ export function indexPage({ lang, config, translations, basePath = '.' }) {
   const photos = config.photos;
   const stats = config.stats;
   const quote = config.quote;
-  const categories = config.categories;
+  const regions = config.regions || [];
 
-  // Generate filter buttons
+  // Generate filter buttons dynamically from regions present in photos
   const filterButtons = [
     `<button class="filter-btn active" data-filter="all">${gallery.filterLabels.all[lang]}</button>`,
-    ...categories.map(cat =>
-      `<button class="filter-btn" data-filter="${cat.id}">${cat.name[lang]}</button>`
-    )
+    ...regions.map(r => `<button class="filter-btn" data-filter="${r.slug}">${r.name}</button>`),
   ].join('\n                ');
 
   // Generate gallery items
   const galleryItems = photos.map(photo => {
+    const visibleIn = photo._visibleIn || '';
+    const visibleInAll = visibleIn.split(' ').includes('all');
+    const displayLocation = photo.location?.locality || photo.location?.county || photo.location?.region || photo.location?.country || '';
     const sizeClass = photo.size ? ` gallery-item-${photo.size}` : '';
-    return `<div class="gallery-item${sizeClass}" data-category="${photo.category}">
-                    <img src="${basePath}/${photo.image}" alt="${photo.alt}" loading="lazy">
+    const wAttr = photo.width  ? ` width="${photo.width}"`   : '';
+    const hAttr = photo.height ? ` height="${photo.height}"` : '';
+    const flickrUrl = photo.flickr_id ? `https://www.flickr.com/photos/dcaminosastre/${photo.flickr_id}/` : '';
+    const make = photo.exif?.make || '';
+    const model = photo.exif?.model || '';
+    const camera = model
+      ? (make && !model.toLowerCase().includes(make.toLowerCase()) ? `${make} ${model}` : model)
+      : make;
+    const dateTaken = photo.dateTaken || '';
+    const hiddenAttr = visibleInAll ? '' : ' style="display:none"';
+    const score = Math.round(photo._score ?? 0);
+    return `<div class="gallery-item${sizeClass}" data-visible-in="${visibleIn}" data-score="${score}" data-flickr-url="${flickrUrl}" data-camera="${camera}" data-date="${dateTaken}"${hiddenAttr}>
+                    <img src="${basePath}/${photo.image}" alt="${photo.alt}" loading="lazy"${wAttr}${hAttr}>
                     <div class="gallery-overlay">
-                        <span class="gallery-location">${photo.location[lang]}</span>
-                        <h3 class="gallery-title">${photo.caption[lang]}</h3>
+                        <span class="gallery-location">${displayLocation}</span>
+                        <h3 class="gallery-title">${photo.caption}</h3>
                     </div>
                 </div>`;
   }).join('\n                ');
@@ -86,9 +98,15 @@ export function indexPage({ lang, config, translations, basePath = '.' }) {
             <p class="section-subtitle">${gallery.subtitle[lang]}</p>
         </div>
 
-        <!-- Filter -->
-        <div class="gallery-filter" id="galleryFilter">
-            ${filterButtons}
+        <!-- Filter + Sort -->
+        <div class="gallery-controls">
+            <div class="gallery-filter" id="galleryFilter">
+                ${filterButtons}
+            </div>
+            <div class="gallery-sort" id="gallerySort">
+                <button class="sort-btn" data-sort="date">${t['gallery.sort.date']}</button>
+                <button class="sort-btn active" data-sort="score">${t['gallery.sort.activity']}</button>
+            </div>
         </div>
 
         <!-- Gallery Grid -->
@@ -134,6 +152,17 @@ export function indexPage({ lang, config, translations, basePath = '.' }) {
             <div class="lightbox-caption">
                 <span class="lightbox-location"></span>
                 <h3 class="lightbox-title"></h3>
+                <div class="lightbox-meta">
+                    <span class="lightbox-date"></span>
+                    <span class="lightbox-camera"></span>
+                </div>
+                <a class="lightbox-flickr-link" href="#" target="_blank" rel="noopener">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                        <circle cx="6" cy="12" r="4.5" stroke="currentColor" stroke-width="1.5" fill="none"/>
+                        <circle cx="18" cy="12" r="4.5"/>
+                    </svg>
+                    <span>${t['about.cta.flickr']}</span>
+                </a>
             </div>
         </div>
     </div>
