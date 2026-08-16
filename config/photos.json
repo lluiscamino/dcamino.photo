@@ -569,12 +569,12 @@
     "image": "images/Gatos_extraterrestres_con_l_ser_en_los_ojos___cute_kittens_9872908096.jpg",
     "alt": "Gatos extraterrestres con láser en los ojos | cute kittens",
     "caption": "Gatos extraterrestres con láser en los ojos | cute kittens",
-    "description": "Hecha con una Canon IXUS 55 y sin editar.",
+    "description": null,
     "location": {
-      "locality": "Muro",
-      "county": "Balearic Islands",
-      "region": "Balearic Islands",
-      "country": "Spain",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.809854,
       "lon": 3.116168
     },
@@ -585,18 +585,10 @@
     "tags": [],
     "activity": {
       "faves": 28,
-      "views": 1937,
-      "numComments": 4
+      "views": 1938,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon DIGITAL IXUS 55",
-      "lens": null,
-      "fNumber": "4.5",
-      "exposureTime": "1/60",
-      "iso": null,
-      "focalLength": "14.4 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14988092031",
@@ -661,15 +653,7 @@
       "views": 372,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": null,
-      "exposureTime": "1/45",
-      "iso": null,
-      "focalLength": "78.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8151177762",
@@ -694,17 +678,9 @@
     "activity": {
       "faves": 1,
       "views": 395,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": null,
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "134.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "23227903893",
@@ -770,15 +746,7 @@
       "views": 382,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "22.0",
-      "exposureTime": "0.3",
-      "iso": null,
-      "focalLength": "18.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12547334803",
@@ -807,15 +775,7 @@
       "views": 482,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "4.0",
-      "exposureTime": "1/10",
-      "iso": null,
-      "focalLength": "35.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "4692882905",
@@ -823,12 +783,12 @@
     "image": "images/IMG_5730_4692882905.jpg",
     "alt": "IMG_5730",
     "caption": "IMG_5730",
-    "description": " En la quinta avenida el domingo de Pascua.",
+    "description": null,
     "location": {
-      "locality": "New York",
-      "county": "Manhattan",
-      "region": "New York",
-      "country": "United States",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 40.71455,
       "lon": -74.007118
     },
@@ -839,18 +799,10 @@
     "tags": [],
     "activity": {
       "faves": 21,
-      "views": 1630,
-      "numComments": 4
+      "views": 1631,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "5.6",
-      "exposureTime": "1/350",
-      "iso": null,
-      "focalLength": "78.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12547791915",
@@ -858,7 +810,7 @@
     "image": "images/04042010_IMG_5754_12547791915.jpg",
     "alt": "04042010-IMG_5754",
     "caption": "04042010-IMG_5754",
-    "description": "Chófer en NY.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -879,15 +831,7 @@
       "views": 400,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "5.6",
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": "96.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12548797265",
@@ -897,10 +841,10 @@
     "caption": "04042010-IMG_5769",
     "description": null,
     "location": {
-      "locality": "New York",
+      "locality": null,
       "county": null,
-      "region": "New York",
-      "country": "United States",
+      "region": null,
+      "country": null,
       "lat": 40.71455,
       "lon": -74.007118
     },
@@ -916,15 +860,7 @@
       "views": 571,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "5.6",
-      "exposureTime": "1/180",
-      "iso": null,
-      "focalLength": "78.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12568438394",
@@ -932,7 +868,7 @@
     "image": "images/04042010_IMG_5837_2_12568438394.jpg",
     "alt": "04042010-IMG_5837-2",
     "caption": "04042010-IMG_5837-2",
-    "description": "Jueus a NY.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -953,15 +889,7 @@
       "views": 397,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "6.7",
-      "exposureTime": "1/60",
-      "iso": null,
-      "focalLength": "78.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794414058",
@@ -986,17 +914,9 @@
     "activity": {
       "faves": 8,
       "views": 483,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "8.0",
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": "18.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794411376",
@@ -1006,10 +926,10 @@
     "caption": "IMG_5958",
     "description": null,
     "location": {
-      "locality": "New York",
-      "county": "Manhattan",
-      "region": "New York",
-      "country": "United States",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 40.71455,
       "lon": -74.007118
     },
@@ -1021,17 +941,9 @@
     "activity": {
       "faves": 3,
       "views": 453,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/750",
-      "iso": null,
-      "focalLength": "21.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794408572",
@@ -1056,17 +968,9 @@
     "activity": {
       "faves": 8,
       "views": 478,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "18.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794405452",
@@ -1093,15 +997,7 @@
       "views": 495,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/180",
-      "iso": null,
-      "focalLength": "18.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794437240",
@@ -1126,17 +1022,9 @@
     "activity": {
       "faves": 2,
       "views": 480,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "4.5",
-      "exposureTime": "1/1000",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794434552",
@@ -1163,15 +1051,7 @@
       "views": 660,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/350",
-      "iso": null,
-      "focalLength": "35.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794431574",
@@ -1198,15 +1078,7 @@
       "views": 619,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "35.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794428582",
@@ -1214,7 +1086,7 @@
     "image": "images/Edificios_de_New_York_en_blanco_y_negro_7794428582.jpg",
     "alt": "Edificios de New York en blanco y negro",
     "caption": "Edificios de New York en blanco y negro",
-    "description": "Los rascacielos más altos de New York fotografiados en blanco y negro.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -1233,15 +1105,7 @@
       "views": 498,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "51.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "22566370202",
@@ -1453,15 +1317,7 @@
       "views": 555,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/1500",
-      "iso": null,
-      "focalLength": "51.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794494746",
@@ -1469,7 +1325,7 @@
     "image": "images/La_estatua_de_la_Libertad_7794494746.jpg",
     "alt": "La estatua de la Libertad",
     "caption": "La estatua de la Libertad",
-    "description": "Foto hecha desde un helicóptero.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -1488,15 +1344,7 @@
       "views": 578,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "6.7",
-      "exposureTime": "1/4000",
-      "iso": null,
-      "focalLength": "96.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794491956",
@@ -1521,17 +1369,9 @@
     "activity": {
       "faves": 2,
       "views": 445,
-      "numComments": 2
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "9.5",
-      "exposureTime": "1/1500",
-      "iso": null,
-      "focalLength": "21.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794504598",
@@ -1558,15 +1398,7 @@
       "views": 473,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/750",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794502208",
@@ -1593,15 +1425,7 @@
       "views": 449,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/350",
-      "iso": null,
-      "focalLength": "42.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "22317945821",
@@ -1665,15 +1489,7 @@
       "views": 442,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "4.5",
-      "exposureTime": "1/45",
-      "iso": null,
-      "focalLength": "42.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794517398",
@@ -1698,17 +1514,9 @@
     "activity": {
       "faves": 8,
       "views": 473,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/10",
-      "iso": null,
-      "focalLength": "21.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794514088",
@@ -1733,17 +1541,9 @@
     "activity": {
       "faves": 6,
       "views": 880,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "4.0",
-      "exposureTime": "1/30",
-      "iso": null,
-      "focalLength": "21.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "21716890473",
@@ -1809,15 +1609,7 @@
       "views": 408,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "4.5",
-      "exposureTime": "0.3",
-      "iso": null,
-      "focalLength": "18.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12594238214",
@@ -1846,15 +1638,7 @@
       "views": 402,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "4.5",
-      "exposureTime": "0.3",
-      "iso": null,
-      "focalLength": "18.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794511368",
@@ -1862,7 +1646,7 @@
     "image": "images/Foto_nocturna_de_los_edificios_de_New_York_7794511368.jpg",
     "alt": "Foto nocturna de los edificios de New York",
     "caption": "Foto nocturna de los edificios de New York",
-    "description": "El último día de mi viaje pude hacer estas últimas fotos.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -1879,17 +1663,9 @@
     "activity": {
       "faves": 6,
       "views": 510,
-      "numComments": 3
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "4.5",
-      "exposureTime": "0.3",
-      "iso": null,
-      "focalLength": "18.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12593849974",
@@ -1897,7 +1673,7 @@
     "image": "images/09042010_IMG_6413_12593849974.jpg",
     "alt": "09042010-IMG_6413",
     "caption": "09042010-IMG_6413",
-    "description": "Imagen de NY procesada en raw.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -1918,15 +1694,7 @@
       "views": 395,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "18-200mm",
-      "fNumber": "5.6",
-      "exposureTime": "0.7",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8316852955",
@@ -1934,7 +1702,7 @@
     "image": "images/Llu_s_8316852955.jpg",
     "alt": "Lluís",
     "caption": "Lluís",
-    "description": "My son. Sé que no tiene una gran calidad pero me gusta ....",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -1953,15 +1721,7 @@
       "views": 390,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/2000",
-      "iso": null,
-      "focalLength": "115.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7576542628",
@@ -1969,12 +1729,12 @@
     "image": "images/IMG_9884mascararetallada_7576542628.jpg",
     "alt": "IMG_9884mascararetallada",
     "caption": "IMG_9884mascararetallada",
-    "description": "Lluís,pasa de portero con el equipo del colegio. Detalle de una foto recortada.",
+    "description": null,
     "location": {
-      "locality": "Palma",
-      "county": "Baleares",
-      "region": "Illes Balears",
-      "country": "España",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.568646,
       "lon": 2.649078
     },
@@ -1986,17 +1746,9 @@
     "activity": {
       "faves": 13,
       "views": 1099,
-      "numComments": 3
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/2000",
-      "iso": null,
-      "focalLength": "115.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14804253560",
@@ -2059,17 +1811,9 @@
     "activity": {
       "faves": 3,
       "views": 318,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/750",
-      "iso": null,
-      "focalLength": "100.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7577743678",
@@ -2077,12 +1821,12 @@
     "image": "images/Puska_y_yo_7577743678.jpg",
     "alt": "Puska y yo",
     "caption": "Puska y yo",
-    "description": "Nuestra perra Puska, ...",
+    "description": null,
     "location": {
-      "locality": "Palma",
-      "county": "Baleares",
-      "region": "Illes Balears",
-      "country": "España",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.568646,
       "lon": 2.649078
     },
@@ -2094,17 +1838,9 @@
     "activity": {
       "faves": 12,
       "views": 1116,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "9.5",
-      "exposureTime": "1/250",
-      "iso": null,
-      "focalLength": "100.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7576339286",
@@ -2112,12 +1848,12 @@
     "image": "images/IMG_2694_7576339286.jpg",
     "alt": "IMG_2694",
     "caption": "IMG_2694",
-    "description": "Mi hijo Lluís, 12 años.",
+    "description": null,
     "location": {
-      "locality": "Palma",
-      "county": "Baleares",
-      "region": "Illes Balears",
-      "country": "España",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.568646,
       "lon": 2.649078
     },
@@ -2129,17 +1865,9 @@
     "activity": {
       "faves": 7,
       "views": 1011,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "4.0",
-      "exposureTime": "1/250",
-      "iso": null,
-      "focalLength": "105.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15389558581",
@@ -2184,7 +1912,7 @@
     "image": "images/IMG_2792_7576166312.jpg",
     "alt": "IMG_2792",
     "caption": "IMG_2792",
-    "description": "La Catedral y el palacio de la Almudaina de Palma de Mallorca. Spain.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -2201,17 +1929,9 @@
     "activity": {
       "faves": 6,
       "views": 432,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/1500",
-      "iso": null,
-      "focalLength": "85.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794349740",
@@ -2236,17 +1956,9 @@
     "activity": {
       "faves": 4,
       "views": 338,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": null,
-      "model": null,
-      "lens": null,
-      "fNumber": null,
-      "exposureTime": null,
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "7794373940",
@@ -2269,17 +1981,9 @@
     "activity": {
       "faves": 9,
       "views": 498,
-      "numComments": 3
+      "numComments": 0
     },
-    "exif": {
-      "make": null,
-      "model": null,
-      "lens": null,
-      "fNumber": null,
-      "exposureTime": null,
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "15460608265",
@@ -2472,7 +2176,7 @@
     "image": "images/IMG_3451_8173417735.jpg",
     "alt": "IMG_3451",
     "caption": "IMG_3451",
-    "description": "My son LLuís in Scotland (John o´Groat)",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -2491,15 +2195,7 @@
       "views": 427,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "11.0",
-      "exposureTime": "1/90",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "50272442331",
@@ -2709,17 +2405,9 @@
     "activity": {
       "faves": 2,
       "views": 456,
-      "numComments": 2
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "4.5",
-      "exposureTime": "1/1000",
-      "iso": null,
-      "focalLength": "200.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8173024781",
@@ -2727,7 +2415,7 @@
     "image": "images/Bailarinas_escocesas_8173024781.jpg",
     "alt": "Bailarinas escocesas",
     "caption": "Bailarinas escocesas",
-    "description": "Castillo de Stirling( Escocia)",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -2744,17 +2432,9 @@
     "activity": {
       "faves": 6,
       "views": 925,
-      "numComments": 3
+      "numComments": 0
     },
-    "exif": {
-      "make": null,
-      "model": null,
-      "lens": null,
-      "fNumber": null,
-      "exposureTime": null,
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "8315320549",
@@ -2764,10 +2444,10 @@
     "caption": "ORIENT, MALLORCA, (SPAIN)",
     "description": null,
     "location": {
-      "locality": "Bunyola",
-      "county": "Balearic Islands",
-      "region": "Balearic Islands",
-      "country": "Spain",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.734914,
       "lon": 2.755165
     },
@@ -2778,18 +2458,10 @@
     "tags": [],
     "activity": {
       "faves": 12,
-      "views": 2323,
-      "numComments": 4
+      "views": 2324,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "10.0",
-      "exposureTime": "1/320",
-      "iso": null,
-      "focalLength": "105.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8334575194",
@@ -2813,18 +2485,10 @@
     "tags": [],
     "activity": {
       "faves": 6,
-      "views": 1239,
+      "views": 1240,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "18.0",
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": "55.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8334588152",
@@ -2851,15 +2515,7 @@
       "views": 525,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "8.0",
-      "exposureTime": "1/1250",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8329815313",
@@ -2883,18 +2539,10 @@
     "tags": [],
     "activity": {
       "faves": 1,
-      "views": 1102,
-      "numComments": 2
+      "views": 1103,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "18.0",
-      "exposureTime": "1/80",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8334842620",
@@ -2921,15 +2569,7 @@
       "views": 576,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "10.0",
-      "exposureTime": "1/320",
-      "iso": null,
-      "focalLength": "47.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8333499421",
@@ -2953,18 +2593,10 @@
     "tags": [],
     "activity": {
       "faves": 3,
-      "views": 1504,
-      "numComments": 1
+      "views": 1505,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "10.0",
-      "exposureTime": "1/250",
-      "iso": null,
-      "focalLength": "47.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8334635458",
@@ -2991,15 +2623,7 @@
       "views": 472,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "10.0",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8334996948",
@@ -3024,17 +2648,9 @@
     "activity": {
       "faves": 8,
       "views": 618,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "10.0",
-      "exposureTime": "1/320",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8333399995",
@@ -3042,7 +2658,7 @@
     "image": "images/Valldemossa__Mallorca___Spain__8333399995.jpg",
     "alt": "Valldemossa, Mallorca, (Spain)",
     "caption": "Valldemossa, Mallorca, (Spain)",
-    "description": "Encantador pueblo de montaña.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -3058,18 +2674,10 @@
     "tags": [],
     "activity": {
       "faves": 5,
-      "views": 1155,
-      "numComments": 1
+      "views": 1156,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "7.1",
-      "exposureTime": "1/320",
-      "iso": null,
-      "focalLength": "90.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "8397868583",
@@ -3093,18 +2701,10 @@
     "tags": [],
     "activity": {
       "faves": 6,
-      "views": 1160,
+      "views": 1161,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark II",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/320",
-      "iso": null,
-      "focalLength": "109.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15393183672",
@@ -3237,18 +2837,10 @@
     "tags": [],
     "activity": {
       "faves": 2,
-      "views": 1119,
-      "numComments": 1
+      "views": 1120,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": null,
-      "fNumber": "5.6",
-      "exposureTime": "1/250",
-      "iso": null,
-      "focalLength": "84.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15350233616",
@@ -3380,15 +2972,7 @@
       "views": 409,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 40D",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "6.7",
-      "exposureTime": "1/350",
-      "iso": null,
-      "focalLength": "28.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15185425940",
@@ -3824,10 +3408,10 @@
     "caption": "Calzada de los gigantes",
     "description": null,
     "location": {
-      "locality": "Portaferry",
-      "county": "Ards",
-      "region": "Northern Ireland",
-      "country": "United Kingdom",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 54.384316,
       "lon": -5.551666
     },
@@ -3842,17 +3426,9 @@
     "activity": {
       "faves": 3,
       "views": 428,
-      "numComments": 3
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "11.0",
-      "exposureTime": "1/100",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "50286080443",
@@ -3953,18 +3529,10 @@
     ],
     "activity": {
       "faves": 9,
-      "views": 1376,
-      "numComments": 3
+      "views": 1377,
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "5.0",
-      "exposureTime": "1/5000",
-      "iso": null,
-      "focalLength": "200.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14398003236",
@@ -3992,17 +3560,9 @@
     "activity": {
       "faves": 38,
       "views": 1065,
-      "numComments": 6
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "5.6",
-      "exposureTime": "1/3200",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14387016377",
@@ -4032,15 +3592,7 @@
       "views": 379,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "8.0",
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15368143435",
@@ -4086,7 +3638,7 @@
     "image": "images/L_amo_feli__14597382765.jpg",
     "alt": "L'amo feliç",
     "caption": "L'amo feliç",
-    "description": "El canet observador i l'home feliç mentre descansen asseguts a un banc abans d'entrar a Connamara Abbey. Irlanda.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -4106,17 +3658,9 @@
     "activity": {
       "faves": 10,
       "views": 608,
-      "numComments": 5
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "9.0",
-      "exposureTime": "1/400",
-      "iso": null,
-      "focalLength": "104.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15181370797",
@@ -4217,17 +3761,9 @@
     "activity": {
       "faves": 0,
       "views": 393,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "7.1",
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": "55.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "9971517304",
@@ -4252,17 +3788,9 @@
     "activity": {
       "faves": 4,
       "views": 510,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "7.1",
-      "exposureTime": "1/400",
-      "iso": null,
-      "focalLength": "60.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15176577789",
@@ -4359,15 +3887,7 @@
       "views": 313,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "4.0",
-      "exposureTime": "1/1250",
-      "iso": null,
-      "focalLength": "82.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15175904320",
@@ -4430,17 +3950,9 @@
     "activity": {
       "faves": 3,
       "views": 492,
-      "numComments": 3
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "9.0",
-      "exposureTime": "0.4",
-      "iso": null,
-      "focalLength": "105.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "11675269235",
@@ -4470,15 +3982,7 @@
       "views": 400,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "22.0",
-      "exposureTime": "10",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15361967032",
@@ -4543,15 +4047,7 @@
       "views": 465,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "13.0",
-      "exposureTime": "2.5",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12018140744",
@@ -4580,15 +4076,7 @@
       "views": 639,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "5.6",
-      "exposureTime": "1/80",
-      "iso": null,
-      "focalLength": "32.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12053525435",
@@ -4596,7 +4084,7 @@
     "image": "images/17012014_PT8B8110_12053525435.jpg",
     "alt": "17012014-PT8B8110",
     "caption": "17012014-PT8B8110",
-    "description": "Festes de Sant Sebastià a Palma de Mallorca (Spain).",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -4617,15 +4105,7 @@
       "views": 404,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "6.3",
-      "exposureTime": "1/3200",
-      "iso": null,
-      "focalLength": "88.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12018432664",
@@ -4654,15 +4134,7 @@
       "views": 650,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "5.0",
-      "exposureTime": "1/640",
-      "iso": null,
-      "focalLength": "55.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15329563736",
@@ -4740,7 +4212,7 @@
     "image": "images/26012014_PT8B8344_12157216296.jpg",
     "alt": "26012014-PT8B8344",
     "caption": "26012014-PT8B8344",
-    "description": "BAHÍA DE PALMA DE MALLORCA (SPAIN).",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -4757,17 +4229,9 @@
     "activity": {
       "faves": 30,
       "views": 1255,
-      "numComments": 11
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "5.0",
-      "exposureTime": "1/6400",
-      "iso": null,
-      "focalLength": "200.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15352092732",
@@ -4886,10 +4350,10 @@
     "caption": "09022014-PT8B8593",
     "description": null,
     "location": {
-      "locality": "Palma",
-      "county": "Baleares",
-      "region": "Illes Balears",
-      "country": "España",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.568646,
       "lon": 2.649078
     },
@@ -4901,17 +4365,9 @@
     "activity": {
       "faves": 15,
       "views": 713,
-      "numComments": 3
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "11.0",
-      "exposureTime": "1/1600",
-      "iso": null,
-      "focalLength": "95.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12411353884",
@@ -4938,15 +4394,7 @@
       "views": 753,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "13.0",
-      "exposureTime": "1/1600",
-      "iso": null,
-      "focalLength": "105.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12408733313",
@@ -4954,12 +4402,12 @@
     "image": "images/Es_Carnatge__Palma_de_Mallorca_12408733313.jpg",
     "alt": "Es Carnatge, Palma de Mallorca",
     "caption": "Es Carnatge, Palma de Mallorca",
-    "description": "Spain",
+    "description": null,
     "location": {
-      "locality": "Palma",
-      "county": "Baleares",
-      "region": "Illes Balears",
-      "country": "España",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.568646,
       "lon": 2.649078
     },
@@ -4971,17 +4419,9 @@
     "activity": {
       "faves": 34,
       "views": 1491,
-      "numComments": 6
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF24-105mm f/4L IS USM",
-      "fNumber": "18.0",
-      "exposureTime": "1/250",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12409955953",
@@ -5008,15 +4448,7 @@
       "views": 423,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "6.3",
-      "exposureTime": "1/4000",
-      "iso": null,
-      "focalLength": "91.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "12417262124",
@@ -5043,15 +4475,7 @@
       "views": 465,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "6.3",
-      "exposureTime": "1/2500",
-      "iso": null,
-      "focalLength": "200.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "13040950255",
@@ -5061,10 +4485,10 @@
     "caption": "Na Puska, una bretona molt estimada. Una bretona muy querida.",
     "description": null,
     "location": {
-      "locality": "Calvià",
-      "county": "Balearic Islands",
-      "region": "Balearic Islands",
-      "country": "Spain",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.540057,
       "lon": 2.606506
     },
@@ -5076,17 +4500,9 @@
     "activity": {
       "faves": 10,
       "views": 647,
-      "numComments": 2
+      "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "4.5",
-      "exposureTime": "1/1000",
-      "iso": null,
-      "focalLength": "200.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14797002469",
@@ -5115,15 +4531,7 @@
       "views": 416,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "7.1",
-      "exposureTime": "1/1600",
-      "iso": null,
-      "focalLength": "184.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14796945739",
@@ -5131,7 +4539,7 @@
     "image": "images/23032014_PT8B9416_14796945739.jpg",
     "alt": "23032014-PT8B9416",
     "caption": "23032014-PT8B9416",
-    "description": "Canot al Carnatge",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -5152,15 +4560,7 @@
       "views": 418,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF70-200mm f/4L USM",
-      "fNumber": "7.1",
-      "exposureTime": "1/1600",
-      "iso": null,
-      "focalLength": "184.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15044065651",
@@ -5414,15 +4814,7 @@
       "views": 405,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF300mm f/4L IS USM",
-      "fNumber": "5.6",
-      "exposureTime": "1/800",
-      "iso": null,
-      "focalLength": "300.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14853817589",
@@ -5468,7 +4860,7 @@
     "image": "images/Viajando_a_Mallorca____13806334494.jpg",
     "alt": "Viajando a Mallorca...",
     "caption": "Viajando a Mallorca...",
-    "description": "... con EasyJet",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -5487,15 +4879,7 @@
       "views": 368,
       "numComments": 0
     },
-    "exif": {
-      "make": "Canon",
-      "model": "Canon EOS 5D Mark III",
-      "lens": "EF300mm f/4L IS USM",
-      "fNumber": "8.0",
-      "exposureTime": "1/2000",
-      "iso": null,
-      "focalLength": "300.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15017769151",
@@ -5801,7 +5185,7 @@
     "image": "images/Cristina_14571887312.jpg",
     "alt": "Cristina",
     "caption": "Cristina",
-    "description": "Estamos en verano y de vacaciones!!! Mallorca (Spain)",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -5820,15 +5204,7 @@
       "views": 346,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "11.0",
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14571864172",
@@ -5836,7 +5212,7 @@
     "image": "images/Cristina_14571864172.jpg",
     "alt": "Cristina",
     "caption": "Cristina",
-    "description": "Mi hermana Cristina esta  ventosa mañana en Illetes. Mallorca (Spain)",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -5855,15 +5231,7 @@
       "views": 518,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "11.0",
-      "exposureTime": "1/250",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14385882169",
@@ -5871,7 +5239,7 @@
     "image": "images/Pitbull_14385882169.jpg",
     "alt": "Pitbull",
     "caption": "Pitbull",
-    "description": "Este pitbull y su dueño paseando por la playa de Illetes .",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -5888,17 +5256,9 @@
     "activity": {
       "faves": 1,
       "views": 948,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "14.0",
-      "exposureTime": "1/640",
-      "iso": null,
-      "focalLength": "66.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14578099011",
@@ -5925,15 +5285,7 @@
       "views": 703,
       "numComments": 0
     },
-    "exif": {
-      "make": null,
-      "model": null,
-      "lens": null,
-      "fNumber": null,
-      "exposureTime": null,
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14600827883",
@@ -5941,7 +5293,7 @@
     "image": "images/NIKON_FE2_14600827883.jpg",
     "alt": "NIKON FE2",
     "caption": "NIKON FE2",
-    "description": "Una de les càmeres referents de Nikon...",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -5960,15 +5312,7 @@
       "views": 418,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "8.0",
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14557579026",
@@ -5976,7 +5320,7 @@
     "image": "images/NIKON_FE2_14557579026.jpg",
     "alt": "NIKON FE2",
     "caption": "NIKON FE2",
-    "description": "Una de las mejores cámaras analógicas que Nikon fabricó...juntamente con el 50mm f1.8 y el 28mm f2.8, filtros,...",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -5995,15 +5339,7 @@
       "views": 609,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "8.0",
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14580420702",
@@ -6030,15 +5366,7 @@
       "views": 774,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "8.0",
-      "exposureTime": "1/160",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14427296250",
@@ -6046,7 +5374,7 @@
     "image": "images/moixet_14427296250.jpg",
     "alt": "moixet",
     "caption": "moixet",
-    "description": "Què us sembla?Té un mes i mig\nQue os parece? Tiene un mes y medio.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6065,15 +5393,7 @@
       "views": 368,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "4.0",
-      "exposureTime": "1/5000",
-      "iso": null,
-      "focalLength": "66.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14634124963",
@@ -6081,7 +5401,7 @@
     "image": "images/Moixet_14634124963.jpg",
     "alt": "Moixet",
     "caption": "Moixet",
-    "description": "Encara no té nom...\nTodavía no le hemos puesto nombre...",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6100,15 +5420,7 @@
       "views": 361,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "4.0",
-      "exposureTime": "1/6400",
-      "iso": null,
-      "focalLength": "66.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14442410767",
@@ -6135,15 +5447,7 @@
       "views": 947,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "8.0",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14648570343",
@@ -6170,15 +5474,7 @@
       "views": 678,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "10.0",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "26.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14648507203",
@@ -6203,17 +5499,9 @@
     "activity": {
       "faves": 3,
       "views": 637,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "14.0",
-      "exposureTime": "1/160",
-      "iso": null,
-      "focalLength": "47.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14661709234",
@@ -6221,7 +5509,7 @@
     "image": "images/My_son_Llu_s_14661709234.jpg",
     "alt": "My son Lluís",
     "caption": "My son Lluís",
-    "description": "Sony A7 + Nikon 50mm 1.8",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6240,15 +5528,7 @@
       "views": 686,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/6400",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14477042460",
@@ -6256,7 +5536,7 @@
     "image": "images/My_son_Llu_s_14477042460.jpg",
     "alt": "My son Lluís",
     "caption": "My son Lluís",
-    "description": "Sony A7 +adaptador fotga+Nikon 1.8",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6275,15 +5555,7 @@
       "views": 709,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/6400",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14663680605",
@@ -6291,7 +5563,7 @@
     "image": "images/Many_years_ago____14663680605.jpg",
     "alt": "Many years ago...",
     "caption": "Many years ago...",
-    "description": "Sony A7+adaptador fotga +Nikon 50mm 1.8",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6310,15 +5582,7 @@
       "views": 1122,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/5000",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14660157716",
@@ -6345,15 +5609,7 @@
       "views": 1353,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/2500",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14824420269",
@@ -6627,7 +5883,7 @@
     "image": "images/21072014_DSC00890_14771376188.jpg",
     "alt": "21072014-DSC00890",
     "caption": "21072014-DSC00890",
-    "description": "Castell de Portaferry Irlanda",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6681,15 +5937,7 @@
       "views": 533,
       "numComments": 1
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "13.0",
-      "exposureTime": "1/160",
-      "iso": null,
-      "focalLength": "26.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14958146245",
@@ -6697,7 +5945,7 @@
     "image": "images/21072014_DSC00917_14958146245.jpg",
     "alt": "21072014-DSC00917",
     "caption": "21072014-DSC00917",
-    "description": "Jugant a golf un dia magnífic al comtat de Down.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6732,7 +5980,7 @@
     "image": "images/21072014_DSC00936_14956317701.jpg",
     "alt": "21072014-DSC00936",
     "caption": "21072014-DSC00936",
-    "description": "En Lluís per les platges irlandeses.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6751,15 +5999,7 @@
       "views": 395,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "5.6",
-      "exposureTime": "1/1600",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14825095587",
@@ -6843,7 +6083,7 @@
     "image": "images/23072014_DSC01045_14911236861.jpg",
     "alt": "23072014-DSC01045",
     "caption": "23072014-DSC01045",
-    "description": "Boscos d'Irlanda",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6862,15 +6102,7 @@
       "views": 385,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "6.3",
-      "exposureTime": "1/100",
-      "iso": null,
-      "focalLength": "42.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14727408408",
@@ -6878,7 +6110,7 @@
     "image": "images/23072014_DSC01047_14727408408.jpg",
     "alt": "23072014-DSC01047",
     "caption": "23072014-DSC01047",
-    "description": "Boscos d'Irlanda",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6897,15 +6129,7 @@
       "views": 381,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "10.0",
-      "exposureTime": "1/160",
-      "iso": null,
-      "focalLength": "42.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14730172878",
@@ -6913,7 +6137,7 @@
     "image": "images/23072014_DSC01057_14730172878.jpg",
     "alt": "23072014-DSC01057",
     "caption": "23072014-DSC01057",
-    "description": "Excursió al cercles de pedres\nIRLANDA",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6932,15 +6156,7 @@
       "views": 409,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14918610902",
@@ -6948,7 +6164,7 @@
     "image": "images/23072014_DSC01103_14918610902.jpg",
     "alt": "23072014-DSC01103",
     "caption": "23072014-DSC01103",
-    "description": "landscape  Ireland \nPaisatge irlandès\n&lt;paisaje de Irlanda del Norte",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -6967,15 +6183,7 @@
       "views": 371,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "11.0",
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": "25.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14807814756",
@@ -7002,15 +6210,7 @@
       "views": 327,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/20",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14830336042",
@@ -7018,7 +6218,7 @@
     "image": "images/24072014_DSC01238_14830336042.jpg",
     "alt": "24072014-DSC01238",
     "caption": "24072014-DSC01238",
-    "description": "Sony A7 nikon 1,8",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7037,15 +6237,7 @@
       "views": 333,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/50",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14830594125",
@@ -7053,7 +6245,7 @@
     "image": "images/24072014_DSC01243_14830594125.jpg",
     "alt": "24072014-DSC01243",
     "caption": "24072014-DSC01243",
-    "description": "Detall de l'Angel de la Catedral d'Armagh.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7072,15 +6264,7 @@
       "views": 385,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14926084212",
@@ -7088,7 +6272,7 @@
     "image": "images/24072014_DSC01250_14926084212.jpg",
     "alt": "24072014-DSC01250",
     "caption": "24072014-DSC01250",
-    "description": "Interior de la Catedral d'Armagh Irlanda del Nord",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7107,15 +6291,7 @@
       "views": 322,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/30",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14739724978",
@@ -7123,7 +6299,7 @@
     "image": "images/24072014_DSC01252_14739724978.jpg",
     "alt": "24072014-DSC01252",
     "caption": "24072014-DSC01252",
-    "description": "El cel ras de la Catedral catòlica d'Armagh.\nTecho de la Catedral católica de Armagh. IRLANDA del Norte.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7142,15 +6318,7 @@
       "views": 323,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/13",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14926046205",
@@ -7158,7 +6326,7 @@
     "image": "images/24072014_DSC01265_14926046205.jpg",
     "alt": "24072014-DSC01265",
     "caption": "24072014-DSC01265",
-    "description": "Façana de la Catedral de Armagh Irlanda del Nord.\nFachada de la Catedral de Armagh . Nordireland.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7177,15 +6345,7 @@
       "views": 321,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/80",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14786992878",
@@ -7193,7 +6353,7 @@
     "image": "images/25072014_DSC01294_14786992878.jpg",
     "alt": "25072014-DSC01294",
     "caption": "25072014-DSC01294",
-    "description": "Na Sara i en Lluís ",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7212,15 +6372,7 @@
       "views": 397,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/100",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14786845378",
@@ -7228,7 +6380,7 @@
     "image": "images/25072014_DSC01301_14786845378.jpg",
     "alt": "25072014-DSC01301",
     "caption": "25072014-DSC01301",
-    "description": "Ferrer\nHerrero\nUlster American Folk Parc",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7263,7 +6415,7 @@
     "image": "images/25072014_DSC01308_14948864906.jpg",
     "alt": "25072014-DSC01308",
     "caption": "25072014-DSC01308",
-    "description": "telar",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7317,15 +6469,7 @@
       "views": 413,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/3200",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14925451605",
@@ -7333,7 +6477,7 @@
     "image": "images/25072014_DSC01328_14925451605.jpg",
     "alt": "25072014-DSC01328",
     "caption": "25072014-DSC01328",
-    "description": "Gente irlandesa\n",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7350,17 +6494,9 @@
     "activity": {
       "faves": 3,
       "views": 366,
-      "numComments": 2
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "6.3",
-      "exposureTime": "1/10",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14786500229",
@@ -7368,7 +6504,7 @@
     "image": "images/25072014_DSC01341_14786500229.jpg",
     "alt": "25072014-DSC01341",
     "caption": "25072014-DSC01341",
-    "description": "Imprenta",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7387,15 +6523,7 @@
       "views": 462,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "7.1",
-      "exposureTime": "1/15",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14784489908",
@@ -7422,15 +6550,7 @@
       "views": 399,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "7.1",
-      "exposureTime": "0.4",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14920240635",
@@ -7438,7 +6558,7 @@
     "image": "images/25072014_DSC01375_14920240635.jpg",
     "alt": "25072014-DSC01375",
     "caption": "25072014-DSC01375",
-    "description": "Ireland (american ulster)\n \n",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7455,17 +6575,9 @@
     "activity": {
       "faves": 1,
       "views": 421,
-      "numComments": 2
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "4.0",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "54.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14972684865",
@@ -7473,7 +6585,7 @@
     "image": "images/25072014_DSC01382_14972684865.jpg",
     "alt": "25072014-DSC01382",
     "caption": "25072014-DSC01382",
-    "description": "La cambra...",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7492,15 +6604,7 @@
       "views": 399,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "6.3",
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14949914226",
@@ -7508,7 +6612,7 @@
     "image": "images/25072014_DSC01385_14949914226.jpg",
     "alt": "25072014-DSC01385",
     "caption": "25072014-DSC01385",
-    "description": "Sa madona de sa possessió.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7525,17 +6629,9 @@
     "activity": {
       "faves": 2,
       "views": 426,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "22.0",
-      "exposureTime": "1/100",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "15108890628",
@@ -7692,7 +6788,7 @@
     "image": "images/26072014_DSC01445_14971863432.jpg",
     "alt": "26072014-DSC01445",
     "caption": "26072014-DSC01445",
-    "description": "Malin Head (Ireland)",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7709,7 +6805,7 @@
     "activity": {
       "faves": 8,
       "views": 473,
-      "numComments": 1
+      "numComments": 0
     },
     "exif": {
       "make": "SONY",
@@ -7727,7 +6823,7 @@
     "image": "images/26072014_DSC01467_14752858100.jpg",
     "alt": "26072014-DSC01467",
     "caption": "26072014-DSC01467",
-    "description": "A prop de Malin (Irlanda)",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7767,7 +6863,7 @@
       "locality": null,
       "county": null,
       "region": null,
-      "country": "España",
+      "country": null,
       "lat": 37.696461,
       "lon": 3.489661
     },
@@ -7779,17 +6875,9 @@
     "activity": {
       "faves": 10,
       "views": 1681,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "4.5",
-      "exposureTime": "1/100",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14937344672",
@@ -7851,15 +6939,7 @@
       "views": 451,
       "numComments": 1
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "7.1",
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": "24.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14931537921",
@@ -7867,7 +6947,7 @@
     "image": "images/28072014_DSC01549_14931537921.jpg",
     "alt": "28072014-DSC01549",
     "caption": "28072014-DSC01549",
-    "description": "En Lluís i na Sara a Irlanda",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7884,17 +6964,9 @@
     "activity": {
       "faves": 1,
       "views": 358,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "4.5",
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": "55.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14747857920",
@@ -7902,7 +6974,7 @@
     "image": "images/04082014_DSC01601_14747857920.jpg",
     "alt": "04082014-DSC01601",
     "caption": "04082014-DSC01601",
-    "description": "Captivadora imatge.Tres germanets...",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7919,17 +6991,9 @@
     "activity": {
       "faves": 13,
       "views": 3073,
-      "numComments": 2
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "6.3",
-      "exposureTime": "1/400",
-      "iso": null,
-      "focalLength": "66.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14911494846",
@@ -7937,7 +7001,7 @@
     "image": "images/04082014_DSC01604_14911494846.jpg",
     "alt": "04082014-DSC01604",
     "caption": "04082014-DSC01604",
-    "description": "Tres germanets juguen pel jardí...\n",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -7956,15 +7020,7 @@
       "views": 436,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "6.3",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "56.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14934413125",
@@ -7972,12 +7028,12 @@
     "image": "images/04082014_DSC01604_14934413125.jpg",
     "alt": "04082014-DSC01604",
     "caption": "04082014-DSC01604",
-    "description": "retall de moixet.",
+    "description": null,
     "location": {
       "locality": null,
-      "county": "Baleares",
-      "region": "Illes Balears",
-      "country": "España",
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.796719,
       "lon": 2.888854
     },
@@ -7989,17 +7045,9 @@
     "activity": {
       "faves": 11,
       "views": 1344,
-      "numComments": 4
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "6.3",
-      "exposureTime": "1/500",
-      "iso": null,
-      "focalLength": "56.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14861911431",
@@ -8007,12 +7055,12 @@
     "image": "images/08082014_DSC01622_14861911431.jpg",
     "alt": "08082014-DSC01622",
     "caption": "08082014-DSC01622",
-    "description": "Sara.\n\nSony A7\nNikon 50mm",
+    "description": null,
     "location": {
-      "locality": "Ca&#039;s Miot",
-      "county": "Baleares",
-      "region": "Illes Balears",
-      "country": "España",
+      "locality": null,
+      "county": null,
+      "region": null,
+      "country": null,
       "lat": 39.60904,
       "lon": 2.696362
     },
@@ -8026,15 +7074,7 @@
       "views": 851,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "4.5",
-      "exposureTime": "1/60",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14674982360",
@@ -8042,7 +7082,7 @@
     "image": "images/08082014_DSC01628_14674982360.jpg",
     "alt": "08082014-DSC01628",
     "caption": "08082014-DSC01628",
-    "description": "ADELA",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8061,15 +7101,7 @@
       "views": 286,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/80",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14838567396",
@@ -8077,7 +7109,7 @@
     "image": "images/08082014_DSC01629_14838567396.jpg",
     "alt": "08082014-DSC01629",
     "caption": "08082014-DSC01629",
-    "description": "SARA",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8096,15 +7128,7 @@
       "views": 307,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/60",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14881334143",
@@ -8112,12 +7136,12 @@
     "image": "images/08082014_DSC01629_14881334143.jpg",
     "alt": "08082014-DSC01629",
     "caption": "08082014-DSC01629",
-    "description": "SARA \n\n",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
       "region": null,
-      "country": "España",
+      "country": null,
       "lat": 37.696461,
       "lon": 3.489661
     },
@@ -8129,17 +7153,9 @@
     "activity": {
       "faves": 0,
       "views": 401,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/60",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14702271657",
@@ -8147,7 +7163,7 @@
     "image": "images/11082014_DSC01639_14702271657.jpg",
     "alt": "11082014-DSC01639",
     "caption": "11082014-DSC01639",
-    "description": "Adela, my mother in law.\nSony A7 and lens 24-70.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8164,17 +7180,9 @@
     "activity": {
       "faves": 0,
       "views": 370,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "7.1",
-      "exposureTime": "1/160",
-      "iso": null,
-      "focalLength": "70.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14888625245",
@@ -8182,7 +7190,7 @@
     "image": "images/11082014_DSC01643_14888625245.jpg",
     "alt": "11082014-DSC01643",
     "caption": "11082014-DSC01643",
-    "description": "My mother in law, Adela.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8201,15 +7209,7 @@
       "views": 308,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14701890457",
@@ -8217,7 +7217,7 @@
     "image": "images/11082014_DSC01643_14701890457.jpg",
     "alt": "11082014-DSC01643",
     "caption": "11082014-DSC01643",
-    "description": "Mother in law",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8234,17 +7234,9 @@
     "activity": {
       "faves": 0,
       "views": 359,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "----",
-      "fNumber": null,
-      "exposureTime": "1/125",
-      "iso": null,
-      "focalLength": null
-    }
+    "exif": null
   },
   {
     "flickr_id": "14713928188",
@@ -8252,7 +7244,7 @@
     "image": "images/12082014_DSC01691_14713928188.jpg",
     "alt": "12082014-DSC01691",
     "caption": "12082014-DSC01691",
-    "description": "FLAM DE CAFÈ, BONÍSSIM!!!",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8271,15 +7263,7 @@
       "views": 372,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "4.0",
-      "exposureTime": "1/320",
-      "iso": null,
-      "focalLength": "68.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14877075896",
@@ -8287,7 +7271,7 @@
     "image": "images/12082014_DSC01710_14877075896.jpg",
     "alt": "12082014-DSC01710",
     "caption": "12082014-DSC01710",
-    "description": "Herbes mallorquines\nUn licor hecho en casa de mi amigo Leo, y cuyos ingredientes son hinojo, yerba luisa,hoja de naranjo y limonero, níspero, grano de café, mejorana, menta, cazalla anís dulce.",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8306,15 +7290,7 @@
       "views": 428,
       "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "8.0",
-      "exposureTime": "1/200",
-      "iso": null,
-      "focalLength": "60.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14946922202",
@@ -8322,7 +7298,7 @@
     "image": "images/17082014_DSC01726_14946922202.jpg",
     "alt": "17082014-DSC01726",
     "caption": "17082014-DSC01726",
-    "description": "Ma mare celebra 97 anys el dia 20 d'agost, per Sant Bernat.\n",
+    "description": null,
     "location": {
       "locality": null,
       "county": null,
@@ -8339,17 +7315,9 @@
     "activity": {
       "faves": 6,
       "views": 1745,
-      "numComments": 1
+      "numComments": 0
     },
-    "exif": {
-      "make": "SONY",
-      "model": "ILCE-7",
-      "lens": "FE 24-70mm F4 ZA OSS",
-      "fNumber": "7.1",
-      "exposureTime": "1/100",
-      "iso": null,
-      "focalLength": "63.0 mm"
-    }
+    "exif": null
   },
   {
     "flickr_id": "14837109787",
@@ -35443,7 +34411,7 @@
     "tags": [],
     "activity": {
       "faves": 61,
-      "views": 1225,
+      "views": 1226,
       "numComments": 15
     },
     "exif": {
@@ -36007,7 +34975,7 @@
     "tags": [],
     "activity": {
       "faves": 112,
-      "views": 2334,
+      "views": 2335,
       "numComments": 23
     },
     "exif": {
@@ -37864,7 +36832,7 @@
     "tags": [],
     "activity": {
       "faves": 130,
-      "views": 2919,
+      "views": 2920,
       "numComments": 31
     },
     "exif": {
@@ -44343,7 +43311,7 @@
     "tags": [],
     "activity": {
       "faves": 31,
-      "views": 247,
+      "views": 248,
       "numComments": 0
     },
     "exif": {
@@ -44413,7 +43381,7 @@
     "tags": [],
     "activity": {
       "faves": 40,
-      "views": 624,
+      "views": 625,
       "numComments": 3
     },
     "exif": {
@@ -44483,7 +43451,7 @@
     "tags": [],
     "activity": {
       "faves": 30,
-      "views": 405,
+      "views": 406,
       "numComments": 5
     },
     "exif": {
@@ -44518,7 +43486,7 @@
     "tags": [],
     "activity": {
       "faves": 26,
-      "views": 388,
+      "views": 389,
       "numComments": 2
     },
     "exif": {
@@ -44553,7 +43521,7 @@
     "tags": [],
     "activity": {
       "faves": 19,
-      "views": 291,
+      "views": 292,
       "numComments": 0
     },
     "exif": {
@@ -44588,7 +43556,7 @@
     "tags": [],
     "activity": {
       "faves": 19,
-      "views": 433,
+      "views": 434,
       "numComments": 1
     },
     "exif": {
@@ -44623,7 +43591,7 @@
     "tags": [],
     "activity": {
       "faves": 20,
-      "views": 287,
+      "views": 288,
       "numComments": 2
     },
     "exif": {
@@ -44658,7 +43626,7 @@
     "tags": [],
     "activity": {
       "faves": 21,
-      "views": 383,
+      "views": 384,
       "numComments": 2
     },
     "exif": {
@@ -44693,7 +43661,7 @@
     "tags": [],
     "activity": {
       "faves": 12,
-      "views": 337,
+      "views": 338,
       "numComments": 3
     },
     "exif": {
@@ -44728,7 +43696,7 @@
     "tags": [],
     "activity": {
       "faves": 11,
-      "views": 357,
+      "views": 358,
       "numComments": 2
     },
     "exif": {
@@ -44763,7 +43731,7 @@
     "tags": [],
     "activity": {
       "faves": 34,
-      "views": 521,
+      "views": 522,
       "numComments": 2
     },
     "exif": {
@@ -44798,7 +43766,7 @@
     "tags": [],
     "activity": {
       "faves": 28,
-      "views": 383,
+      "views": 384,
       "numComments": 0
     },
     "exif": {
@@ -44833,7 +43801,7 @@
     "tags": [],
     "activity": {
       "faves": 35,
-      "views": 518,
+      "views": 519,
       "numComments": 7
     },
     "exif": {
@@ -44868,7 +43836,7 @@
     "tags": [],
     "activity": {
       "faves": 18,
-      "views": 266,
+      "views": 267,
       "numComments": 2
     },
     "exif": {
@@ -44903,7 +43871,7 @@
     "tags": [],
     "activity": {
       "faves": 11,
-      "views": 253,
+      "views": 254,
       "numComments": 1
     },
     "exif": {
@@ -44938,7 +43906,7 @@
     "tags": [],
     "activity": {
       "faves": 13,
-      "views": 340,
+      "views": 341,
       "numComments": 1
     },
     "exif": {
@@ -44973,7 +43941,7 @@
     "tags": [],
     "activity": {
       "faves": 27,
-      "views": 418,
+      "views": 419,
       "numComments": 1
     },
     "exif": {
@@ -45008,7 +43976,7 @@
     "tags": [],
     "activity": {
       "faves": 21,
-      "views": 471,
+      "views": 472,
       "numComments": 3
     },
     "exif": {
@@ -45043,7 +44011,7 @@
     "tags": [],
     "activity": {
       "faves": 20,
-      "views": 382,
+      "views": 383,
       "numComments": 1
     },
     "exif": {
@@ -45078,7 +44046,7 @@
     "tags": [],
     "activity": {
       "faves": 25,
-      "views": 329,
+      "views": 330,
       "numComments": 4
     },
     "exif": {
@@ -45113,7 +44081,7 @@
     "tags": [],
     "activity": {
       "faves": 19,
-      "views": 246,
+      "views": 247,
       "numComments": 2
     },
     "exif": {
@@ -45148,7 +44116,7 @@
     "tags": [],
     "activity": {
       "faves": 19,
-      "views": 291,
+      "views": 292,
       "numComments": 0
     },
     "exif": {
@@ -45183,7 +44151,7 @@
     "tags": [],
     "activity": {
       "faves": 28,
-      "views": 470,
+      "views": 471,
       "numComments": 7
     },
     "exif": {
@@ -45218,7 +44186,7 @@
     "tags": [],
     "activity": {
       "faves": 34,
-      "views": 361,
+      "views": 362,
       "numComments": 4
     },
     "exif": {
@@ -45253,7 +44221,7 @@
     "tags": [],
     "activity": {
       "faves": 11,
-      "views": 211,
+      "views": 212,
       "numComments": 0
     },
     "exif": {
@@ -45288,7 +44256,7 @@
     "tags": [],
     "activity": {
       "faves": 9,
-      "views": 179,
+      "views": 180,
       "numComments": 0
     },
     "exif": {
@@ -45323,7 +44291,7 @@
     "tags": [],
     "activity": {
       "faves": 25,
-      "views": 558,
+      "views": 559,
       "numComments": 2
     },
     "exif": {
@@ -45358,7 +44326,7 @@
     "tags": [],
     "activity": {
       "faves": 20,
-      "views": 287,
+      "views": 288,
       "numComments": 1
     },
     "exif": {
@@ -45393,7 +44361,7 @@
     "tags": [],
     "activity": {
       "faves": 12,
-      "views": 181,
+      "views": 182,
       "numComments": 0
     },
     "exif": {
@@ -45428,7 +44396,7 @@
     "tags": [],
     "activity": {
       "faves": 17,
-      "views": 221,
+      "views": 222,
       "numComments": 0
     },
     "exif": {
@@ -45463,7 +44431,7 @@
     "tags": [],
     "activity": {
       "faves": 39,
-      "views": 601,
+      "views": 602,
       "numComments": 3
     },
     "exif": {
@@ -45498,7 +44466,7 @@
     "tags": [],
     "activity": {
       "faves": 16,
-      "views": 262,
+      "views": 263,
       "numComments": 0
     },
     "exif": {
@@ -45533,7 +44501,7 @@
     "tags": [],
     "activity": {
       "faves": 17,
-      "views": 326,
+      "views": 327,
       "numComments": 2
     },
     "exif": {
@@ -45568,7 +44536,7 @@
     "tags": [],
     "activity": {
       "faves": 29,
-      "views": 478,
+      "views": 479,
       "numComments": 5
     },
     "exif": {
@@ -45603,7 +44571,7 @@
     "tags": [],
     "activity": {
       "faves": 13,
-      "views": 274,
+      "views": 275,
       "numComments": 0
     },
     "exif": {
@@ -45638,7 +44606,7 @@
     "tags": [],
     "activity": {
       "faves": 38,
-      "views": 510,
+      "views": 511,
       "numComments": 12
     },
     "exif": {
@@ -45673,7 +44641,7 @@
     "tags": [],
     "activity": {
       "faves": 18,
-      "views": 320,
+      "views": 321,
       "numComments": 2
     },
     "exif": {
@@ -45708,7 +44676,7 @@
     "tags": [],
     "activity": {
       "faves": 45,
-      "views": 581,
+      "views": 582,
       "numComments": 12
     },
     "exif": {
@@ -45743,7 +44711,7 @@
     "tags": [],
     "activity": {
       "faves": 56,
-      "views": 940,
+      "views": 941,
       "numComments": 16
     },
     "exif": {
@@ -45778,7 +44746,7 @@
     "tags": [],
     "activity": {
       "faves": 37,
-      "views": 660,
+      "views": 661,
       "numComments": 4
     },
     "exif": {
@@ -45813,7 +44781,7 @@
     "tags": [],
     "activity": {
       "faves": 35,
-      "views": 256,
+      "views": 257,
       "numComments": 4
     },
     "exif": {
@@ -45848,7 +44816,7 @@
     "tags": [],
     "activity": {
       "faves": 47,
-      "views": 565,
+      "views": 566,
       "numComments": 10
     },
     "exif": {
@@ -45883,7 +44851,7 @@
     "tags": [],
     "activity": {
       "faves": 23,
-      "views": 732,
+      "views": 733,
       "numComments": 2
     },
     "exif": {
@@ -45918,7 +44886,7 @@
     "tags": [],
     "activity": {
       "faves": 33,
-      "views": 492,
+      "views": 493,
       "numComments": 7
     },
     "exif": {
@@ -45953,7 +44921,7 @@
     "tags": [],
     "activity": {
       "faves": 21,
-      "views": 791,
+      "views": 792,
       "numComments": 2
     },
     "exif": {
@@ -45988,7 +44956,7 @@
     "tags": [],
     "activity": {
       "faves": 23,
-      "views": 731,
+      "views": 732,
       "numComments": 1
     },
     "exif": {
@@ -46023,7 +44991,7 @@
     "tags": [],
     "activity": {
       "faves": 19,
-      "views": 185,
+      "views": 186,
       "numComments": 0
     },
     "exif": {
@@ -46058,7 +45026,7 @@
     "tags": [],
     "activity": {
       "faves": 18,
-      "views": 811,
+      "views": 812,
       "numComments": 4
     },
     "exif": {
@@ -46093,7 +45061,7 @@
     "tags": [],
     "activity": {
       "faves": 21,
-      "views": 329,
+      "views": 330,
       "numComments": 7
     },
     "exif": {
@@ -46128,7 +45096,7 @@
     "tags": [],
     "activity": {
       "faves": 29,
-      "views": 734,
+      "views": 735,
       "numComments": 5
     },
     "exif": {
@@ -46163,7 +45131,7 @@
     "tags": [],
     "activity": {
       "faves": 21,
-      "views": 190,
+      "views": 191,
       "numComments": 2
     },
     "exif": {
@@ -46198,7 +45166,7 @@
     "tags": [],
     "activity": {
       "faves": 19,
-      "views": 357,
+      "views": 358,
       "numComments": 4
     },
     "exif": {
@@ -46233,7 +45201,7 @@
     "tags": [],
     "activity": {
       "faves": 22,
-      "views": 324,
+      "views": 325,
       "numComments": 2
     },
     "exif": {
@@ -46268,7 +45236,7 @@
     "tags": [],
     "activity": {
       "faves": 17,
-      "views": 248,
+      "views": 249,
       "numComments": 1
     },
     "exif": {
@@ -46303,7 +45271,7 @@
     "tags": [],
     "activity": {
       "faves": 23,
-      "views": 314,
+      "views": 315,
       "numComments": 6
     },
     "exif": {
@@ -46338,7 +45306,7 @@
     "tags": [],
     "activity": {
       "faves": 18,
-      "views": 141,
+      "views": 142,
       "numComments": 0
     },
     "exif": {
@@ -46373,7 +45341,7 @@
     "tags": [],
     "activity": {
       "faves": 33,
-      "views": 470,
+      "views": 471,
       "numComments": 5
     },
     "exif": {
@@ -46408,7 +45376,7 @@
     "tags": [],
     "activity": {
       "faves": 22,
-      "views": 477,
+      "views": 478,
       "numComments": 1
     },
     "exif": {
@@ -46443,7 +45411,7 @@
     "tags": [],
     "activity": {
       "faves": 47,
-      "views": 561,
+      "views": 565,
       "numComments": 7
     },
     "exif": {
@@ -46478,7 +45446,7 @@
     "tags": [],
     "activity": {
       "faves": 23,
-      "views": 208,
+      "views": 209,
       "numComments": 2
     },
     "exif": {
@@ -46513,7 +45481,7 @@
     "tags": [],
     "activity": {
       "faves": 22,
-      "views": 183,
+      "views": 184,
       "numComments": 0
     },
     "exif": {
@@ -46548,7 +45516,7 @@
     "tags": [],
     "activity": {
       "faves": 39,
-      "views": 401,
+      "views": 402,
       "numComments": 8
     },
     "exif": {
@@ -46583,7 +45551,7 @@
     "tags": [],
     "activity": {
       "faves": 49,
-      "views": 786,
+      "views": 789,
       "numComments": 8
     },
     "exif": {
@@ -46618,7 +45586,7 @@
     "tags": [],
     "activity": {
       "faves": 25,
-      "views": 416,
+      "views": 417,
       "numComments": 2
     },
     "exif": {
@@ -46653,7 +45621,7 @@
     "tags": [],
     "activity": {
       "faves": 22,
-      "views": 303,
+      "views": 304,
       "numComments": 3
     },
     "exif": {
@@ -46688,7 +45656,7 @@
     "tags": [],
     "activity": {
       "faves": 24,
-      "views": 369,
+      "views": 370,
       "numComments": 3
     },
     "exif": {
@@ -46723,7 +45691,7 @@
     "tags": [],
     "activity": {
       "faves": 35,
-      "views": 471,
+      "views": 472,
       "numComments": 5
     },
     "exif": {
@@ -46758,7 +45726,7 @@
     "tags": [],
     "activity": {
       "faves": 23,
-      "views": 367,
+      "views": 368,
       "numComments": 8
     },
     "exif": {
@@ -46793,7 +45761,7 @@
     "tags": [],
     "activity": {
       "faves": 14,
-      "views": 176,
+      "views": 177,
       "numComments": 0
     },
     "exif": {
@@ -46828,7 +45796,7 @@
     "tags": [],
     "activity": {
       "faves": 18,
-      "views": 358,
+      "views": 359,
       "numComments": 2
     },
     "exif": {
@@ -46863,7 +45831,7 @@
     "tags": [],
     "activity": {
       "faves": 18,
-      "views": 259,
+      "views": 260,
       "numComments": 2
     },
     "exif": {
@@ -46898,7 +45866,7 @@
     "tags": [],
     "activity": {
       "faves": 39,
-      "views": 560,
+      "views": 561,
       "numComments": 6
     },
     "exif": {
@@ -46933,7 +45901,7 @@
     "tags": [],
     "activity": {
       "faves": 47,
-      "views": 776,
+      "views": 779,
       "numComments": 6
     },
     "exif": {
@@ -46968,7 +45936,7 @@
     "tags": [],
     "activity": {
       "faves": 39,
-      "views": 285,
+      "views": 288,
       "numComments": 2
     },
     "exif": {
@@ -47003,7 +45971,7 @@
     "tags": [],
     "activity": {
       "faves": 34,
-      "views": 381,
+      "views": 382,
       "numComments": 6
     },
     "exif": {
@@ -47038,7 +46006,7 @@
     "tags": [],
     "activity": {
       "faves": 35,
-      "views": 431,
+      "views": 432,
       "numComments": 5
     },
     "exif": {
@@ -47073,7 +46041,7 @@
     "tags": [],
     "activity": {
       "faves": 39,
-      "views": 491,
+      "views": 494,
       "numComments": 7
     },
     "exif": {
@@ -47108,7 +46076,7 @@
     "tags": [],
     "activity": {
       "faves": 35,
-      "views": 678,
+      "views": 679,
       "numComments": 11
     },
     "exif": {
@@ -47143,7 +46111,7 @@
     "tags": [],
     "activity": {
       "faves": 19,
-      "views": 501,
+      "views": 504,
       "numComments": 9
     },
     "exif": {
@@ -47178,7 +46146,7 @@
     "tags": [],
     "activity": {
       "faves": 52,
-      "views": 493,
+      "views": 496,
       "numComments": 1
     },
     "exif": {
@@ -47213,7 +46181,7 @@
     "tags": [],
     "activity": {
       "faves": 57,
-      "views": 610,
+      "views": 613,
       "numComments": 21
     },
     "exif": {
@@ -47248,7 +46216,7 @@
     "tags": [],
     "activity": {
       "faves": 34,
-      "views": 450,
+      "views": 453,
       "numComments": 6
     },
     "exif": {
@@ -47283,7 +46251,7 @@
     "tags": [],
     "activity": {
       "faves": 33,
-      "views": 578,
+      "views": 579,
       "numComments": 9
     },
     "exif": {
@@ -47318,7 +46286,7 @@
     "tags": [],
     "activity": {
       "faves": 77,
-      "views": 1150,
+      "views": 1151,
       "numComments": 17
     },
     "exif": {
@@ -47353,7 +46321,7 @@
     "tags": [],
     "activity": {
       "faves": 47,
-      "views": 624,
+      "views": 627,
       "numComments": 10
     },
     "exif": {
@@ -47388,7 +46356,7 @@
     "tags": [],
     "activity": {
       "faves": 33,
-      "views": 414,
+      "views": 418,
       "numComments": 8
     },
     "exif": {
@@ -47423,7 +46391,7 @@
     "tags": [],
     "activity": {
       "faves": 23,
-      "views": 364,
+      "views": 368,
       "numComments": 2
     },
     "exif": {
@@ -47458,7 +46426,7 @@
     "tags": [],
     "activity": {
       "faves": 23,
-      "views": 390,
+      "views": 394,
       "numComments": 0
     },
     "exif": {
@@ -47493,7 +46461,7 @@
     "tags": [],
     "activity": {
       "faves": 35,
-      "views": 579,
+      "views": 583,
       "numComments": 6
     },
     "exif": {
@@ -47528,7 +46496,7 @@
     "tags": [],
     "activity": {
       "faves": 21,
-      "views": 223,
+      "views": 227,
       "numComments": 0
     },
     "exif": {
@@ -47565,7 +46533,7 @@
     ],
     "activity": {
       "faves": 24,
-      "views": 229,
+      "views": 233,
       "numComments": 1
     },
     "exif": {
@@ -47602,7 +46570,7 @@
     ],
     "activity": {
       "faves": 12,
-      "views": 102,
+      "views": 107,
       "numComments": 2
     },
     "exif": {
@@ -47639,7 +46607,7 @@
     ],
     "activity": {
       "faves": 38,
-      "views": 304,
+      "views": 313,
       "numComments": 14
     },
     "exif": {
@@ -47676,7 +46644,7 @@
     ],
     "activity": {
       "faves": 19,
-      "views": 149,
+      "views": 154,
       "numComments": 0
     },
     "exif": {
@@ -47712,8 +46680,8 @@
       "velaclàssica2026agost"
     ],
     "activity": {
-      "faves": 109,
-      "views": 2250,
+      "faves": 114,
+      "views": 2467,
       "numComments": 24
     },
     "exif": {
@@ -47750,7 +46718,7 @@
     ],
     "activity": {
       "faves": 16,
-      "views": 215,
+      "views": 221,
       "numComments": 1
     },
     "exif": {
@@ -47786,8 +46754,8 @@
       "velaclàssica2026agost"
     ],
     "activity": {
-      "faves": 21,
-      "views": 150,
+      "faves": 23,
+      "views": 166,
       "numComments": 6
     },
     "exif": {
@@ -47824,7 +46792,7 @@
     ],
     "activity": {
       "faves": 18,
-      "views": 150,
+      "views": 165,
       "numComments": 7
     },
     "exif": {
@@ -47860,9 +46828,9 @@
       "velaclàssica2026agost"
     ],
     "activity": {
-      "faves": 25,
-      "views": 137,
-      "numComments": 5
+      "faves": 26,
+      "views": 155,
+      "numComments": 6
     },
     "exif": {
       "make": "OLYMPUS CORPORATION",
@@ -47897,9 +46865,9 @@
       "velaclàssica2026agost"
     ],
     "activity": {
-      "faves": 26,
-      "views": 164,
-      "numComments": 6
+      "faves": 28,
+      "views": 180,
+      "numComments": 7
     },
     "exif": {
       "make": "OLYMPUS CORPORATION",
