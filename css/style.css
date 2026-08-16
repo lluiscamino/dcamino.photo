@@ -850,10 +850,11 @@ button {
     color: var(--color-text);
     padding: var(--spacing-md);
     transition: var(--transition-fast);
+    z-index: 1;
 }
 
-.lightbox-prev { left: var(--spacing-md); }
-.lightbox-next { right: var(--spacing-md); }
+.lightbox-prev { left: 0; }
+.lightbox-next { right: 0; }
 
 .lightbox-prev:hover,
 .lightbox-next:hover {
@@ -866,6 +867,13 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.lightbox-img-wrap {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .lightbox-content img {

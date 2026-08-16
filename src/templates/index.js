@@ -145,10 +145,12 @@ export function indexPage({ lang, config, translations, basePath = '.' }) {
     <!-- Lightbox -->
     <div class="lightbox" id="lightbox">
         <button class="lightbox-close" aria-label="${t['aria.close']}">&times;</button>
-        <button class="lightbox-prev" aria-label="${t['aria.previous']}">&larr;</button>
-        <button class="lightbox-next" aria-label="${t['aria.next']}">&rarr;</button>
         <div class="lightbox-content">
-            <img src="" alt="" id="lightbox-img">
+            <div class="lightbox-img-wrap">
+                <button class="lightbox-prev" aria-label="${t['aria.previous']}">&larr;</button>
+                <img src="" alt="" id="lightbox-img">
+                <button class="lightbox-next" aria-label="${t['aria.next']}">&rarr;</button>
+            </div>
             <div class="lightbox-caption">
                 <span class="lightbox-location"></span>
                 <h3 class="lightbox-title"></h3>
